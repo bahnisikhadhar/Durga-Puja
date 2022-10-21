@@ -70,6 +70,19 @@ nav li:hover {
 .lead {
     font-size: 20px;
 }
+.submit {
+    width: 8%;
+    padding: 10px;
+    border-radius: 5px;
+    background-color:orange ;
+    color: white;
+}
+.submit:hover {
+    background-color: rgb(241, 201, 126);
+}
+.submit:active {
+    background-color: orange;
+}
 .making {
     display: flex;
     justify-content: space-evenly;
