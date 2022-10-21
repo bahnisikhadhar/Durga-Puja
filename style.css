@@ -87,6 +87,16 @@ nav li:hover {
     display: flex;
     justify-content: space-evenly;
 }
+.making img {
+    border: 2px solid white;
+    border-radius: 10px;
+    
+}
+.making img:hover {
+    box-shadow: 0px 0px 20px wheat;
+    padding: 10px;
+    border: 2px solid white;
+}
 footer{
     background-color: #333;
     height: 30px;
